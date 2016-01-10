@@ -1,0 +1,18 @@
+.a1{
+	background-color:pink;
+	height:100px;
+	width:1000px;
+	text-align:center;
+	color:blue;
+	vertical-align:middle;
+	display:table-cell;
+	border-radius:25px;
+}
+.a2{
+	height:200px;
+	width:1000px;
+	text-align:center;
+	color:grey;
+	vertical-align:middle;
+	font-size:100px;
+}
